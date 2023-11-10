@@ -3,7 +3,7 @@ layout: post
 cover: "assets/images/cover7.jpg"
 navigation: True
 title: R3F 시작하기-2 3D 오브젝트
-date: 2023-10-22 11:30:00
+date: 2023-10-16 11:30:00
 tags: R3F
 subclass: "post tag-test tag-content"
 logo: "assets/images/ghost.png"
